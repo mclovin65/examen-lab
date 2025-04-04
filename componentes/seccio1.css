@@ -1,0 +1,21 @@
+.seccion1{
+    margin-top: 0 24px;
+    height: 200px;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+}
+.div1{
+    padding: 0 24PX;
+    height: 90%;
+    width: 500px;   
+    align-items: center;
+    display: flex;
+}
+.div2{
+    height: 90%;
+    width: 300PX;
+display: flex;
+align-items: center;
+text-align: center;
+}

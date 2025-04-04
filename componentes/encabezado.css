@@ -1,0 +1,11 @@
+.encabezado {
+    margin: 0 24px;
+    padding: 0 650px;
+    display: flex;
+    text-align: center;
+    height: 100px;
+    width: 100%;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+}

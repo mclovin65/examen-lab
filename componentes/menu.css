@@ -1,0 +1,9 @@
+.menu  {
+    padding: 0 650px;
+    height: 75px;
+    width: 100%;
+    text-align: center;
+    color: white;
+    align-items: center;
+    display: flex;
+}

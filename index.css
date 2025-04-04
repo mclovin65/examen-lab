@@ -1,0 +1,30 @@
+.encabezado {
+    margin: 1px;
+   border-color: black;
+background-color: grey;
+}
+.menu{
+    margin: 1px;
+    border-color: black;
+    background-color: orangered;
+}
+.seccion1 {
+    margin: 1px;
+    border-color: black;
+background-color: blue;
+}
+.div1 {
+    margin: 1px;
+    border-color: black;
+    background-color: skyblue;
+}
+.div2 {
+    margin: 1px;
+    border-color: black;
+    background-color: green;
+}
+.pie{
+    margin: 1px;
+    border-color: black;
+background-color: black;
+}
